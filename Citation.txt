@@ -1,0 +1,6 @@
+## Citation
+
+If you use this software in a publication, please cite:
+
+Minta Thomas (2025). *Single_Sample_vcf_PRS_and_Calibration*. GitHub repository:  
+Licensed under the GNU Lesser General Public License v3.0.https://github.com/Minta822/Single_Sample_vcf_PRS_and_Calibration
